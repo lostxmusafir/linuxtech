@@ -1,0 +1,8 @@
+red
+pink
+blue
+crimson
+green
+gray
+purple
+indigo
