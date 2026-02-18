@@ -385,3 +385,5 @@ Yemen
 Zambia
 
 Zimbabwe
+
+new outpost
